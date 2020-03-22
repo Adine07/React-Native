@@ -1,0 +1,15 @@
+[2020-03-11 10:26:50.642] [sharedprocess] [info] main {"machineId":"cc7ec9fb7beceb494299693dfc3713546c320b480f0433e1bf190aba5a91f42a","windowId":2}
+[2020-03-11 10:26:50.965] [sharedprocess] [info] Deleted from disk mgmcdermott.vscode-language-babel /root/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.26
+[2020-03-11 10:27:30.661] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-11 10:33:49.220] [sharedprocess] [info] Installing extension: ms-vscode.sublime-keybindings
+[2020-03-11 10:33:50.090] [sharedprocess] [info] Downloaded extension: ms-vscode.sublime-keybindings /tmp/5b067502-18eb-42af-ad44-004ce43ee15b
+[2020-03-11 10:33:50.206] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.sublime-keybindings-4.0.6: ms-vscode.sublime-keybindings
+[2020-03-11 10:33:50.206] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.6
+[2020-03-11 10:33:50.207] [sharedprocess] [info] Installation completed. ms-vscode.sublime-keybindings
+[2020-03-11 10:33:50.210] [sharedprocess] [info] Extensions installed successfully: ms-vscode.sublime-keybindings
+[2020-03-11 10:52:14.363] [sharedprocess] [info] Installing extension: equimper.react-native-react-redux
+[2020-03-11 10:52:15.206] [sharedprocess] [info] Downloaded extension: equimper.react-native-react-redux /tmp/a0e7dc99-b469-4806-beaf-5a670aad7c8a
+[2020-03-11 10:52:15.222] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.equimper.react-native-react-redux-2.0.3: equimper.react-native-react-redux
+[2020-03-11 10:52:15.227] [sharedprocess] [info] Renamed to /root/.vscode/extensions/equimper.react-native-react-redux-2.0.3
+[2020-03-11 10:52:15.230] [sharedprocess] [info] Installation completed. equimper.react-native-react-redux
+[2020-03-11 10:52:15.232] [sharedprocess] [info] Extensions installed successfully: equimper.react-native-react-redux

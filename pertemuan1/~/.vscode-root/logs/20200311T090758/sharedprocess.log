@@ -1,0 +1,34 @@
+[2020-03-11 09:08:01.474] [sharedprocess] [info] main {"machineId":"cc7ec9fb7beceb494299693dfc3713546c320b480f0433e1bf190aba5a91f42a","windowId":2}
+[2020-03-11 09:08:32.114] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2020-03-11 09:08:32.982] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/b3769d10-753d-4a08-9201-28dbea800008
+[2020-03-11 09:08:33.214] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.zhuangtongfa.material-theme-3.2.3: zhuangtongfa.material-theme
+[2020-03-11 09:08:33.214] [sharedprocess] [info] Renamed to /root/.vscode/extensions/zhuangtongfa.material-theme-3.2.3
+[2020-03-11 09:08:33.215] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2020-03-11 09:08:33.218] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2020-03-11 09:08:41.469] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-11 09:08:44.919] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2020-03-11 09:08:48.982] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/64753ab8-631b-4dc0-b883-989e60c514cc
+[2020-03-11 09:08:50.144] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscode-icons-team.vscode-icons-10.0.0: vscode-icons-team.vscode-icons
+[2020-03-11 09:08:50.144] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscode-icons-team.vscode-icons-10.0.0
+[2020-03-11 09:08:50.146] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2020-03-11 09:08:50.149] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2020-03-11 09:09:23.380] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-03-11 09:09:24.868] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /tmp/ff7ba7e1-29fb-4a1e-a54f-722600c5e5fb
+[2020-03-11 09:09:24.884] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-rename-tag-0.1.1: formulahendry.auto-rename-tag
+[2020-03-11 09:09:24.884] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1
+[2020-03-11 09:09:24.884] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-03-11 09:09:24.886] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2020-03-11 09:09:32.096] [sharedprocess] [info] Installing extension: techer.open-in-browser
+[2020-03-11 09:09:32.970] [sharedprocess] [info] Downloaded extension: techer.open-in-browser /tmp/4ab3414b-9ecc-468c-a069-342f71bc0731
+[2020-03-11 09:09:33.012] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.techer.open-in-browser-2.0.0: techer.open-in-browser
+[2020-03-11 09:09:33.012] [sharedprocess] [info] Renamed to /root/.vscode/extensions/techer.open-in-browser-2.0.0
+[2020-03-11 09:09:33.013] [sharedprocess] [info] Installation completed. techer.open-in-browser
+[2020-03-11 09:09:33.015] [sharedprocess] [info] Extensions installed successfully: techer.open-in-browser
+[2020-03-11 09:38:30.033] [sharedprocess] [info] Installing extension: mgmcdermott.vscode-language-babel
+[2020-03-11 09:38:31.808] [sharedprocess] [info] Downloaded extension: mgmcdermott.vscode-language-babel /tmp/0f29d375-1863-4f22-a458-f9b11ccee6b4
+[2020-03-11 09:38:31.863] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mgmcdermott.vscode-language-babel-0.0.26: mgmcdermott.vscode-language-babel
+[2020-03-11 09:38:31.863] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.26
+[2020-03-11 09:38:31.864] [sharedprocess] [info] Installation completed. mgmcdermott.vscode-language-babel
+[2020-03-11 09:38:31.866] [sharedprocess] [info] Extensions installed successfully: mgmcdermott.vscode-language-babel
+[2020-03-11 10:23:53.620] [sharedprocess] [info] Uninstalling extension: mgmcdermott.vscode-language-babel
+[2020-03-11 10:23:53.625] [sharedprocess] [info] Successfully uninstalled extension: mgmcdermott.vscode-language-babel
