@@ -1,1 +1,0 @@
-[2020-03-22 22:02:15.960] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vsicons-icon-theme.json'
