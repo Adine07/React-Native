@@ -1,1 +1,1 @@
-export { default } from './screen/p3/App';
+export { default } from './screen/p4/App.js';

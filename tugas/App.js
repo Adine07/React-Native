@@ -1,1 +1,1 @@
-export { default } from './screens/tg1';
+export { default } from './screens/abd2';

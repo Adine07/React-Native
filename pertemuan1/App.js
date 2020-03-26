@@ -1,1 +1,1 @@
-export { default } from './screens/p3/Tugas1';
+export { default } from './screens/p3/App';
